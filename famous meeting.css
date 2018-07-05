@@ -6,14 +6,51 @@ header {
     background-color: lightblue;
 
 }
-
-body {
-
-    background-color:  lightgreen;
+#wave {
+    background-color: yellowgreen;
 }
 
-footer {
+#head {
+    background-color: white;
+}
+#left {
+
+    background-color:  lightcoral;
+}
+
+#right {
 
 
     background-color:  lightsteelblue;
 }
+#footer  {
+     background-color: orange;
+}
+
+  #head {
+      border: 3px black solid;
+  }
+  #left {
+      
+      float: left;
+      width: 60%;
+      min-height: 20em;
+      
+  } 
+  #right {
+     
+     float: left;
+     width: 38%; 
+     min-height: 20em;
+     
+  } 
+  #footer {
+    
+    clear: both;
+
+  }
+
+
+
+
+
