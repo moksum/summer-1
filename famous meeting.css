@@ -23,9 +23,7 @@ header {
 
     background-color:  lightsteelblue;
 }
-#footer  {
-     background-color: orange;
-}
+
 
   #head {
       border: 3px black solid;
@@ -45,10 +43,31 @@ header {
      
   } 
   #footer {
-    
-    clear: both;
+     
+      background-color: orange;
+      height: 50px;
+      clear: both;
+/*     
+  }
+  .main-nav {
+        float: right;
 
   }
+  .main-nav li {
+        float: left;
+        margin-left: 20px;
+        margin-right: 20px;
+
+  } */
+
+  .name {
+    padding-top: 2em;
+    padding-bottom: 1em;
+    padding-left: 5em;
+
+  }
+
+
 
 
 
